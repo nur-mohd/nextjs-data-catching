@@ -1,7 +1,7 @@
 import React from 'react';
 
 const getPosts = async () => {
-    const res = await fetch ("https://jsonplaceholder.typicode.com/posts");
+    const res = await fetch ("https://jsonplaceholder.typicode.com/posts", {cache: "force-cache"});
     return res.json();
 }
 
