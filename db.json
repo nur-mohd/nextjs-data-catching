@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "brand": "Logitech",
+      "price": 25.99,
+      "category": "Accessories",
+      "stock": 50,
+      "rating": 4.5,
+      "description": "A comfortable wireless mouse with precise tracking and long battery life. Perfect for work, study, and everyday use.",
+      "image": "https://picsum.photos/300?random=1"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "brand": "Keychron",
+      "price": 79.99,
+      "category": "Accessories",
+      "stock": 30,
+      "rating": 4.8,
+      "description": "A high-quality mechanical keyboard with responsive switches, comfortable keycaps, and a durable design for typing and gaming.",
+      "image": "https://picsum.photos/300?random=2"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Monitor",
+      "brand": "LG",
+      "price": 249.99,
+      "category": "Monitors",
+      "stock": 15,
+      "rating": 4.7,
+      "description": "A high-resolution gaming monitor with a fast refresh rate and vibrant colors, designed for smooth and immersive gaming.",
+      "image": "https://picsum.photos/300?random=3"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Stand",
+      "brand": "Ugreen",
+      "price": 34.99,
+      "category": "Office",
+      "stock": 40,
+      "rating": 4.4,
+      "description": "An adjustable laptop stand that improves your viewing angle and helps maintain a comfortable posture while working.",
+      "image": "https://picsum.photos/300?random=4"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "brand": "JBL",
+      "price": 59.99,
+      "category": "Audio",
+      "stock": 20,
+      "rating": 4.6,
+      "description": "A portable Bluetooth speaker delivering clear and powerful sound with a compact design, perfect for home and outdoor use.",
+      "image": "https://picsum.photos/300?random=5"
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch",
+      "brand": "Samsung",
+      "price": 199.99,
+      "category": "Wearables",
+      "stock": 25,
+      "rating": 4.7,
+      "description": "A modern smartwatch with fitness tracking, notifications, health features, and a stylish display for everyday use.",
+      "image": "https://picsum.photos/300?random=6"
+    }
+  ]
+}
