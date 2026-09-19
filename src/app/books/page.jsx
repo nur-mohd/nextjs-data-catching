@@ -1,6 +1,7 @@
 import React from 'react';
 import BookCard from '../components/BookCard';
 
+//ISR - Incremental Static Regeneration
 const getBooks = async () => {
     const res = await fetch("http://localhost:5000/books", {next:{revalidate: 10}});
     if(!res.ok) {
