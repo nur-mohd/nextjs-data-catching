@@ -1,8 +1,13 @@
+'use client'
 import React from "react";
+import useUser from "../hooks/useUser";
 
 const ProductCard = ({ product }) => {
 
     const { name, price, description } = product;
+
+    const user = useUser();
+    console.log("user from context product card", user);
 
     return (
     
